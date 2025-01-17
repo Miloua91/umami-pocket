@@ -1,5 +1,3 @@
-import MaterialCommunityIcons from "@expo/vector-icons/MaterialCommunityIcons";
-import Ionicons from "@expo/vector-icons/Ionicons";
 import { Tabs } from "expo-router";
 import "../../global.css";
 import Svg, { Path } from "react-native-svg";
